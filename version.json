@@ -1,0 +1,19 @@
+{
+  "version": "1.0.1",
+  "pubDate": "2026-11-15",
+  "notes": [
+    "五张地图背景全部重做，低画质档也有背景层",
+    "道具与台面穿模清零",
+    "星级线调整为 400 / 1200 / 2400"
+  ],
+  "package": {
+    "name": "kitchen-battle-1.0.1.7z",
+    "size": 62063626,
+    "sha256": "ccfac9bd89ea734402a05eb3b95bc1199ca2aae8f87077e3a187c24e4facdbd6",
+    "urls": [
+      "https://github.com/guyan404/kb-release/releases/download/v1.0.1/kitchen-battle-1.0.1.7z",
+      "https://ghfast.top/https://github.com/guyan404/kb-release/releases/download/v1.0.1/kitchen-battle-1.0.1.7z",
+      "https://gh-proxy.com/https://github.com/guyan404/kb-release/releases/download/v1.0.1/kitchen-battle-1.0.1.7z"
+    ]
+  }
+}
